@@ -2,7 +2,7 @@
 
 - 🌱 Comecei recentemente com desenvolvimento 
 - 🎮 Amante de games
-- 🤔 Atualmente aprendo sobre REACT/JS/CHACRA UI/TypeScript.
+- 🤔 Atualmente aprendendo sobre REACT/JS/CHACRA UI/TypeScript.
 - 📫 Tenho meu proprio site: www.guilhermefernandes.com.br
 
 
