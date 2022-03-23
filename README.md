@@ -1,8 +1,8 @@
 - Olá,visitante! Bem-vindo ao meu perfil.
 
-- 🌱 Comecei recentemente com desenvolvimento 
+- 💻 Desenvolvedor de software  
 - 🎮 Amante de games
-- 🤔 Atualmente aprendendo sobre REACT/JS/CHACRA UI/TypeScript.
+- 🤔 Stacks: REACT/JS/CHACRA UI/PrimeReact/SQL/IndexDB/HTML/SASS.
 - 📫 Tenho meu proprio site: www.guilhermefernandes.com.br
 
 
