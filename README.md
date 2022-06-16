@@ -2,20 +2,8 @@
 
 - 💻 Desenvolvedor Front-End 
 - 🎮 Amante de games
-- 🤔 Stacks: 
-- REACTJS
-- JS
-- CHACRA UI
-- PrimeReact
-- SQL
-- IndexDB
-- HTML
-- SASS
-- Style Component
-- Jest
-- API REST
-- 
-- 📫 Tenho meu proprio site: www.guilhermefernandes.com.br
+- 🤔 Stacks: REACTJS/JS/CHACRA UI/PrimeReact/SQL/IndexDB/HTML/SASS/Style Component/Jest/API REST
+ - 📫 Tenho meu proprio site: www.guilhermefernandes.com.br
 
 
 <div>
